@@ -105,7 +105,7 @@ Me chamo Gabriel Da Siva De Melo Brandão, tenho 25 anos e sou natural de São P
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMello2025&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMello2025&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
