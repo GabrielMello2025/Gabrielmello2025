@@ -4,6 +4,7 @@
 
 Me chamo Gabriel Da Siva De Melo Brandão, tenho 25 anos e sou natural de São Paulo Capital. Atualmente estou cursando o segundo semestre em Análise e Desenvolvimento de Sistemas no Senac Santo Amaro. Minha jornada na programação começou com o objetivo de me tornar um desenvolvedor Java, e por isso, dedico meu tempo aos estudos em Java e SQL. No futuro, pretendo explorar o universo de computação em nuvem com a AWS para construir aplicações mais robustas.
 
+
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&to=gabrielmello0255@gmail.com" target="_blank">
     <img 
@@ -40,6 +41,14 @@ Me chamo Gabriel Da Siva De Melo Brandão, tenho 25 anos e sou natural de São P
             src="https://custom-icon-badges.demolab.com/github/followers/GabrielMello2025?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Siga-me&logoColor=white"
         />
     </a>
+
+  ---
+  
+  <p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gbuikux2iyrbb5olcjsnttmi6q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 </p>
 
 ---
